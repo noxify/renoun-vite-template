@@ -14,7 +14,7 @@
 	"devDependencies": {
 		"@biomejs/biome": "1.9.3",
 		"@tanstack/router-plugin": "1.62.0",
-		"@types/node": "22.7.4",
+		"@types/node": "22.7.5",
 		"@types/react": "18.3.11",
 		"@types/react-dom": "18.3.0",
 		"@vitejs/plugin-react": "4.3.2",
@@ -26,8 +26,8 @@
 	"dependencies": {
 		"@radix-ui/react-icons": "1.3.0",
 		"@radix-ui/react-slot": "1.1.0",
-		"@tanstack/react-router": "1.62.1",
-		"@tanstack/router-devtools": "1.62.1",
+		"@tanstack/react-router": "1.63.2",
+		"@tanstack/router-devtools": "1.63.2",
 		"class-variance-authority": "0.7.0",
 		"clsx": "2.1.1",
 		"lucide-react": "0.447.0",
